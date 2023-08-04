@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Repository</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My GitHub Repository</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Introduce yourself and your background here.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Project 1</a></li>
+            <li><a href="#">Project 2</a></li>
+            <!-- Add more project links as needed -->
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>You can reach me at <a href="mailto:your@email.com">your@email.com</a>.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 My GitHub Repository</p>
+    </footer>
+</body>
+</html>
